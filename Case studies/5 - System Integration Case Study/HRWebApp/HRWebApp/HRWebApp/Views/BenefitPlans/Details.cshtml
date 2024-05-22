@@ -1,0 +1,46 @@
+﻿@model HRWebApp.Models.Benefit_Plans
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Benefit_Plans</h4>
+    <hr />
+    <table   border="0" class="datatable-1 table table-bordered table-striped	 display" >
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Plan_Name)
+            </th>
+
+            <th>
+                @Html.DisplayFor(model => model.Plan_Name)
+            </th>
+        </tr>
+        <tr>
+    <th>
+        @Html.DisplayNameFor(model => model.Deductable)
+    </th>
+
+    <th>
+        @Html.DisplayFor(model => model.Deductable)
+    </th>
+    </tr>
+    <tr>
+    <th>
+        @Html.DisplayNameFor(model => model.Percentage_CoPay)
+    </th>
+
+    <th>
+        @Html.DisplayFor(model => model.Percentage_CoPay)
+    </th>
+    </tr>
+    
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Benefit_Plan_ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

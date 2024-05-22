@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\springapp",
+    "\\springapp\\springapp",
+    "\\springapp\\springapp\\build",
+    "\\springapp\\springapp\\build\\web",
+    "\\springapp\\springapp\\build\\web\\resources",
+    "\\springapp\\springapp\\build\\web\\resources\\css",
+    "\\springapp\\springapp\\web",
+    "\\springapp\\springapp\\web\\WEB-INF",
+    "\\springapp\\springapp\\web\\WEB-INF\\jsp",
+    "\\springapp\\springapp\\web\\WEB-INF\\jsp\\admin"
+  ],
+  "SelectedNode": "\\HRWebApp\\HRWebApp\\HRWebApp\\bootstrap\\js\\bootstrap.min.js",
+  "PreviewInSolutionExplorer": false
+}

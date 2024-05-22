@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\models\\hrdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\models\\hrdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\views\\shared\\_layoutlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|c:\\users\\tk020\\downloads\\case studies\\case studies\\5 - system integration case study\\hrwebapp\\hrwebapp\\hrwebapp\\views\\jobhistory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\views\\jobhistory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\hrwebapp\\views\\jobhistory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\views\\jobhistory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\hrwebapp\\views\\jobhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{178BE937-CF63-4A77-B0C9-FF1A5A511C7B}|HRWebApp\\HRWebApp.csproj|solutionrelative:hrwebapp\\views\\jobhistory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HRDB.cs",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Models\\HRDB.cs",
+              "RelativeDocumentMoniker": "HRWebApp\\Models\\HRDB.cs",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Models\\HRDB.cs",
+              "RelativeToolTip": "HRWebApp\\Models\\HRDB.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:54:04.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "HRWebApp\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "HRWebApp\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:53:53.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "HRWebApp\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "HRWebApp\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T16:53:38.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Web.config",
+              "RelativeDocumentMoniker": "HRWebApp\\Web.config",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Web.config",
+              "RelativeToolTip": "HRWebApp\\Web.config",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T16:53:10.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\web.config",
+              "RelativeDocumentMoniker": "HRWebApp\\Views\\web.config",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\web.config",
+              "RelativeToolTip": "HRWebApp\\Views\\web.config",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T16:53:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LayoutLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeDocumentMoniker": "HRWebApp\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\Shared\\_LayoutLogin.cshtml",
+              "RelativeToolTip": "HRWebApp\\Views\\Shared\\_LayoutLogin.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:52:33.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "HRWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "HRWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:52:30.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\JobHistory\\Index.cshtml",
+              "RelativeDocumentMoniker": "HRWebApp\\Views\\JobHistory\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\JobHistory\\Index.cshtml",
+              "RelativeToolTip": "HRWebApp\\Views\\JobHistory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:42:01.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\JobHistory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "HRWebApp\\Views\\JobHistory\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\JobHistory\\Delete.cshtml",
+              "RelativeToolTip": "HRWebApp\\Views\\JobHistory\\Delete.cshtml",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAswIsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:37:13.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\JobHistory\\Details.cshtml",
+              "RelativeDocumentMoniker": "HRWebApp\\Views\\JobHistory\\Details.cshtml",
+              "ToolTip": "C:\\Users\\tk020\\Downloads\\Case studies\\Case studies\\5 - System Integration Case Study\\HRWebApp\\HRWebApp\\HRWebApp\\Views\\JobHistory\\Details.cshtml",
+              "RelativeToolTip": "HRWebApp\\Views\\JobHistory\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T16:37:09.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
